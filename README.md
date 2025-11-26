@@ -8,8 +8,7 @@
 ---
 
 ## 🔗 **Live Deployment**
-👉 **App Link:** *https://your-deployment-link-here*  
-*(Replace this with your Streamlit Cloud deployment URL)*
+👉 **App Link:** *https://plantagent-9kqusvtm25jpkp2jvswjhu.streamlit.app/*
 
 ---
 
