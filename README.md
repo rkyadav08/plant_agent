@@ -61,5 +61,3 @@ UI & AI outputs available in:
 
 ---
 
-git clone https://github.com/YOUR-USERNAME/plant-doctor-ai.git
-cd plant-doctor-ai
